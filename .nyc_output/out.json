@@ -1,6 +1,6 @@
 {
-  "C:\\master\\cypress-coverage\\src\\App.js": {
-    "path": "C:\\master\\cypress-coverage\\src\\App.js",
+  "C:\\master\\Cypress-code-coverage\\src\\App.js": {
+    "path": "C:\\master\\Cypress-code-coverage\\src\\App.js",
     "statementMap": {
       "0": {
         "start": {
@@ -668,10 +668,10 @@
       ]
     },
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "37df686c442a0c81ca426eb1620a5b74910c6df7"
+    "hash": "5ee96f8be1187ff37b587809148fffc210cc73d1"
   },
-  "C:\\master\\cypress-coverage\\src\\reportWebVitals.js": {
-    "path": "C:\\master\\cypress-coverage\\src\\reportWebVitals.js",
+  "C:\\master\\Cypress-code-coverage\\src\\reportWebVitals.js": {
+    "path": "C:\\master\\Cypress-code-coverage\\src\\reportWebVitals.js",
     "statementMap": {
       "0": {
         "start": {
@@ -903,10 +903,10 @@
       ]
     },
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "4704495b19fb5736a878224998721674215b2c16"
+    "hash": "5296955ce9ef2a114a6c8dd5f6f03dacb944bb3f"
   },
-  "C:\\master\\cypress-coverage\\src\\index.js": {
-    "path": "C:\\master\\cypress-coverage\\src\\index.js",
+  "C:\\master\\Cypress-code-coverage\\src\\index.js": {
+    "path": "C:\\master\\Cypress-code-coverage\\src\\index.js",
     "statementMap": {
       "0": {
         "start": {
@@ -949,6 +949,6 @@
     "f": {},
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "776c67685ba35320dc8010e9e07e138f8165b30f"
+    "hash": "c7d8cd9947e502ee33e4c17b245a24837a60af4f"
   }
 }

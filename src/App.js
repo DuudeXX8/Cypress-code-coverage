@@ -27,27 +27,6 @@ function App() {
     ]);
   };
 
-  console.log(
-    document.querySelector("div.container:nth-child(3) > .todo-name")
-  );
-
-  // TODO добавить это к конфигурации cypress-a
-  // viewportHeight:
-  // viewportWidths:
-
-  // Добавить утилити методы из либы @testing-libraru/cypress/add-commands
-  // findByTestId, findByText
-
-  // Можно дебажить в cypress через then и debugger или через chain .debug(), .pause() -> 7ой урок kentcdodds
-
-  // Для того чтобы добавить факе данные нужно скачать и установить test-data-bot для cypress в папку support -> -> 8ой урок kentcdodds
-  // Для тестирование формы регистрации генерация пользователя
-
-  // для того чтобы изменить сервис пишем cy.server().route -> yрок 10 kentcdodds
-
-  // автоматизация создания пользователя и отдельной команды для cypress -> урок (13, 14) kentcdodds
-
-  // установления токена -> урок 16 kentcdodds
   return (
     <div className="App">
       <form onSubmit={onSubmit}>
